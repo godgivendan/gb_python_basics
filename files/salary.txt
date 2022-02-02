@@ -1,0 +1,10 @@
+John Doe;20000
+Mary Scott;3000
+Teodor Manson;40000
+King Man;30000
+Petrov Petr;100000
+Ivanov Ivan;23000
+Kornelius Montenegro;3200
+Pedro Ganzales;2000
+Ted Manson;31000
+Vincent Polo;43000
