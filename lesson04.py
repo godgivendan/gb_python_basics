@@ -96,7 +96,7 @@ def generate_res_nums_gnrtr(ns):
     g_nums = (el for el in ns)
     next(g_nums)
     prev_g_nums = (el for el in ns)
-    return (el for el in g_nums if el < next(prev_g_nums))
+    return (el for el in g_nums if el > next(prev_g_nums))
 
 
 nums = [300, 2, 12, 44, 1, 1, 4, 10, 7, 1, 78, 123, 55]
